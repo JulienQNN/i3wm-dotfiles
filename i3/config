@@ -7,7 +7,7 @@ set $mod Mod4
 for_window [title="Library"] floating enable
 default_border pixel 6
 
-# windows gaps
+# windows gaps1
 gaps inner 8
 gaps outer 8
 
@@ -54,10 +54,10 @@ bindsym $mod+o exec kitty -e ranger
 bindsym $mod+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id "~/.config/rofi.julien/files/launchers/type-2/launcher.sh"
+bindsym $mod+d exec --no-startup-id "~/.config/rofi/files/launchers/type/launcher.sh"
 
 # start powermenu
-bindsym $mod+p exec --no-startup-id "~/.config/rofi.julien/files/powermenu/type-3/powermenu.sh"
+bindsym $mod+p exec --no-startup-id "~/.config/rofi/files/powermenu/type/powermenu.sh"
 
 # Start the polybar
 exec_always --no-startup-id $HOME/.config/polybar/launch.sh

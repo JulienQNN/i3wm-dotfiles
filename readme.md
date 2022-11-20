@@ -7,5 +7,10 @@ Picom folder
 Polybar folder
 ~./.config/polybar
 
+Rofi folder
+~./.config/rofi
 
+Wallpaper folder
+~./Images/rocks.jpg
 
+Terminal kitty
