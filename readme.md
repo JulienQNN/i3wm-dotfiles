@@ -1,0 +1,2 @@
+Picom file 
+~./.config/picom
