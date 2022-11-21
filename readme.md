@@ -8,7 +8,6 @@
 <br>
 
 This repo contains all the utilities from my i3 configuration, feel free to pick up and modify as your needs.
-
 </div>
 
 ## Requirements
@@ -20,17 +19,35 @@ Depending of your needs, you have to install this to reproduce the configuration
 - <a href="https://github.com/polybar/polybar">Polybar</a> - The status bar
 - <a href="https://github.com/davatorium/rofi">Rofi</a> - The menu(s)
 - <a href="https://www.python.org/downloads/">Kitty</a> - The terminal (optional)
+- <a href="https://ohmyz.sh/">Zsh</a> - The Shell (optional)
 
----
+<br>
+<div align="center">
+<h1>Screenshots</h1>
+<a><img src="wallpaper/screenshots/last.png" alt="Capture" border="0">
+<br><br>
+<img src="wallpaper/screenshots/obsidian-screenshot.png" alt="Capture" border="0">
 
-<a><img width="143"  src="https://i.ibb.co/XbMyB1k/Capture-d-cran-2022-05-10-102345.png" alt="Capture-d-cran-2022-05-10-102345" border="0">
-<img src="https://i.ibb.co/j4zPjKx/Capture-d-cran-2022-05-10-103800.png" alt="Capture-d-cran-2022-05-10-102345" border="0"></a>
-<a>
-<svg src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg"></svg></a>
+<br><br>
+<img src="wallpaper/screenshots/vscode-screenshot.png" alt="Capture" border="0">
 
-Please, modify ```config.ini``` files to provide your own PATH to scrips/images etc.
+<br><br>
+<img src="wallpaper/screenshots/rofiscreen.png" alt="Capture" border="0">
+</a>
 
-### I3
+<br>
+
+</div>
+<div align="center">
+
+# Locations
+
+Please, read and modify ```configs.ini``` files to provide your own PATH to scrips/images etc.
+</div>
+
+## I3
+
+Make sure to use the correct PATH for rofi menu(s), wallpaper.
 
 I3 folder location :
 
@@ -38,7 +55,7 @@ I3 folder location :
 ~/.config/i3
 ```
 
-### Picom
+## Picom
 
 Picom folder location :
 
@@ -46,7 +63,9 @@ Picom folder location :
 ~/.config/picom
 ```
 
-### Polybar
+## Polybar
+
+Come with a python script for Spotify.
 
 Polybar folder location :
 
@@ -54,7 +73,7 @@ Polybar folder location :
 ~/.config/polybar
 ```
 
-### Rofi
+## Rofi
 
 Rofi folder location :
 

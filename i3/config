@@ -78,7 +78,7 @@ exec_always --no-startup-id feh --bg-fill -g 1920x1080 /home/julien/Images/rocks
 exec xinput set-prop "SynPS/2 Synaptics TouchPad" "libinput Tapping Enabled" 1
 
 # Modify my keyboard layout options
-exec_always "setxkbmap -option 'grp:alt_shift_toggle' -layout us -variant qwerty-fr"
+exec_always "setxkbmap -option 'grp:alt_shift_toggle' -layout us"
 
 # change focus
 bindsym $mod+$left focus left
