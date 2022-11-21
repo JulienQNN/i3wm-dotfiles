@@ -18,8 +18,10 @@ Depending of your needs, you have to install this to reproduce the configuration
 - <a href="https://github.com/yshui/picom">Picom</a> The compositor (blurring effects etc)
 - <a href="https://github.com/polybar/polybar">Polybar</a> - The status bar
 - <a href="https://github.com/davatorium/rofi">Rofi</a> - The menu(s)
+- <a href="https://github.com/derf/feh">Feh</a> - The Wallpaper viewer (optional)
 - <a href="https://www.python.org/downloads/">Kitty</a> - The terminal (optional)
 - <a href="https://ohmyz.sh/">Zsh</a> - The Shell (optional)
+
 
 <br>
 <div align="center">
@@ -48,6 +50,8 @@ Please, read and modify ```configs.ini``` files to provide your own PATH to scri
 ## I3
 
 Make sure to use the correct PATH for rofi menu(s), wallpaper.
+
+
 
 I3 folder location :
 
