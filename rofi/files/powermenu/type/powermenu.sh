@@ -7,10 +7,10 @@
 #
 ## Available Styles
 #
-## style-1   style-2   style-3   style-4   style-5
+## style
 
 # Current Theme
-dir="$HOME/.config/rofi.julien/files/powermenu/type"
+dir="$HOME/.config/rofi/files/powermenu/type"
 theme='style'
 
 # CMDs
