@@ -26,13 +26,9 @@ Depending of your needs, you have to install this to reproduce the configuration
 <br>
 <div align="center">
 <h1>Screenshots</h1>
-<a><img src="wallpaper/screenshots/last.png" alt="Capture" border="0">
+<a><img src="wallpaper/screenshots/new.png" alt="Capture" border="0">
 <br><br>
-<img src="wallpaper/screenshots/obsidian-screenshot.png" alt="Capture" border="0">
-
-<br><br>
-<img src="wallpaper/screenshots/vscode-screenshot.png" alt="Capture" border="0">
-
+<img src="wallpaper/screenshots/new2.png" alt="Capture" border="0">
 <br><br>
 <img src="wallpaper/screenshots/rofiscreen.png" alt="Capture" border="0">
 </a>
