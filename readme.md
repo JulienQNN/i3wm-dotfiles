@@ -8,6 +8,7 @@
 <br>
 
 This repo contains all the utilities from my i3 configuration, feel free to pick up and modify as your needs.
+
 </div>
 
 ## Requirements
@@ -21,7 +22,6 @@ Depending of your needs, you have to install this to reproduce the configuration
 - <a href="https://github.com/derf/feh">Feh</a> - The Wallpaper viewer (optional)
 - <a href="https://www.python.org/downloads/">Kitty</a> - The terminal (optional)
 - <a href="https://ohmyz.sh/">Zsh</a> - The Shell (optional)
-
 
 <br>
 <div align="center">
@@ -40,14 +40,13 @@ Depending of your needs, you have to install this to reproduce the configuration
 
 # Locations
 
-Please, read and modify ```configs.ini``` files to provide your own PATH to scrips/images etc.
+Please, read and modify `configs.ini` files to provide your own PATH to scrips/images etc.
+
 </div>
 
 ## I3
 
 Make sure to use the correct PATH for rofi menu(s), wallpaper.
-
-
 
 I3 folder location :
 
